@@ -1,0 +1,5 @@
+# docker ignore
+venv
+.pytest_cache
+.vscode
+.idea

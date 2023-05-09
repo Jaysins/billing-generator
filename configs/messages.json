@@ -1,0 +1,4 @@
+{
+  "otp": "Your OTP is {otp}. It expires in 15 minutes",
+  "virtual_account_created": "Hello {name},\n\nYou can now fund your personal Sendbox account using the bank details below:\n\n{bank_name}\n{account_number}\n\nFor support, call {support_phone} or email {support_email}."}
+
